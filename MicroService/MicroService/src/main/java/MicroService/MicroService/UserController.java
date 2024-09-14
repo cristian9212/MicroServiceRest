@@ -2,6 +2,9 @@ package MicroService.MicroService;
 
 import org.springframework.web.bind.annotation.*;
 
+/**
+ * @author Cristian Talero
+ */
 @RestController
 public class UserController {
 
